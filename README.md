@@ -1,2 +1,2 @@
-# nsmc-streamilit-demo-dream
+# nsmc-streamlit-demo-dream
 NSMC Demo with streamlit
